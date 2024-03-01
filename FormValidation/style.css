@@ -1,0 +1,32 @@
+body{
+    background-color: #7ad3d6;
+}
+.container{
+    margin: 35px auto;
+    width: 700px;
+}
+
+#phone{
+    width: 44vw;
+    height: 40px;
+    border-radius: 5px;
+}
+
+#ValidName,#emailvalid{
+    color: red;
+}
+
+#submit{
+    margin: auto auto;
+}
+
+#submit{
+    width: 10vw;
+    border-radius: 10px;
+    display: block;
+    margin: auto auto;
+}
+#submit:hover{
+    background-color: black;
+    color: white;
+}
